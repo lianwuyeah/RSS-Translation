@@ -11,7 +11,7 @@
 
 ## 已转换翻译源
 
- - source001 [http://www.mckinsey.com/insights/rss](http://www.mckinsey.com/insights/rss) -> [mckinsey_rss.xml](rss/mckinsey_rss.xml)
- - source002 [http://www.mckinsey.com/insights/rss](http://www.mckinsey.com/insights/rss) -> [mckinsey_iw_rss.xml](rss/mckinsey_iw_rss.xml)
- - source003 [http://rss.acast.com/nature](http://rss.acast.com/nature) -> [nature_rss.xml](rss/nature_rss.xml)
- - source004 [http://feeds.bbci.co.uk/news/rss.xml](http://feeds.bbci.co.uk/news/rss.xml) -> [BBC_Top_Stories_rss.xml](rss/BBC_Top_Stories_rss.xml)
+ - source001 [https://www.google.com/alerts/feeds/09247752301141080943/9133721418491851334](https://www.google.com/alerts/feeds/09247752301141080943/9133721418491851334) -> [yemen_rss.xml](rss/yemen_rss.xml)
+ - source002 [https://www.google.com/alerts/feeds/09247752301141080943/17747037146832615075](https://www.google.com/alerts/feeds/09247752301141080943/17747037146832615075) -> [egypt_rss.xml](rss/egypt_rss.xml)
+ - source003 [https://www.google.com/alerts/feeds/09247752301141080943/7574096566631501135](https://www.google.com/alerts/feeds/09247752301141080943/7574096566631501135) -> [morocco_rss.xml](rss/morocco_rss.xml)
+ - source004 [https://www.google.com/alerts/feeds/09247752301141080943/17747037146832613544](https://www.google.com/alerts/feeds/09247752301141080943/17747037146832613544) -> [saudi_rss.xml](rss/saudi_rss.xml)
